@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ia4x.com.br/sitemap.xml
